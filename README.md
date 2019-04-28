@@ -1,2 +1,2 @@
 # Refactoring
-This repository will be delited after my professor has seen it.
+This repository documents the homework on the first chapter of Martin Fowlers 'Refactoring'
